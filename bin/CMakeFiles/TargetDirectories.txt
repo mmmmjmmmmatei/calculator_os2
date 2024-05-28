@@ -1,0 +1,3 @@
+/home/slidewhistle444/Desktop/os-proiect/calculator_os2/bin/CMakeFiles/calculator_os2.dir
+/home/slidewhistle444/Desktop/os-proiect/calculator_os2/bin/CMakeFiles/edit_cache.dir
+/home/slidewhistle444/Desktop/os-proiect/calculator_os2/bin/CMakeFiles/rebuild_cache.dir
