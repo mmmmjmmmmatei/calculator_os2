@@ -28,7 +28,7 @@ void print_operation(float n1, float n2, int op_id){
     else if(op_id == 4)
         printf("Result of division is: %.2f\n", n1/n2);
     else if(op_id == 5)
-        printf("Result of exponentiation is: %.2f\n", powf(n1,n2));
+        printf("Result of exponentiation is: %.2f\n", pow(n1,n2));
 }
 
 void* print_withThreads(void* args){
