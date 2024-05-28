@@ -1,3 +1,11 @@
 # ninja log v5
 1	194	7386078553592752	CMakeFiles/calculator_os2.dir/main.c.obj	bab83d27659cd90
 196	406	7386078555652752	calculator_os2.exe	545e1e48a3c2d098
+2	256	7386141635429855	CMakeFiles/calculator_os2.dir/main.c.obj	bab83d27659cd90
+256	560	7386141638453820	calculator_os2.exe	545e1e48a3c2d098
+4	176	7386148536212406	CMakeFiles/calculator_os2.dir/main.c.obj	bab83d27659cd90
+177	363	7386148538052413	calculator_os2.exe	545e1e48a3c2d098
+4	157	7386150765545066	CMakeFiles/calculator_os2.dir/main.c.obj	bab83d27659cd90
+158	296	7386150766885070	calculator_os2.exe	545e1e48a3c2d098
+2	140	7386153027341233	CMakeFiles/calculator_os2.dir/main.c.obj	bab83d27659cd90
+142	270	7386153028606226	calculator_os2.exe	545e1e48a3c2d098
